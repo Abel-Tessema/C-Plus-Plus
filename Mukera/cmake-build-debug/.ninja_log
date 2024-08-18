@@ -1,0 +1,9 @@
+# ninja log v5
+4	609	7281319329043006	CMakeFiles/Mukera.dir/main.cpp.obj	34edfccbd8145744
+610	712	7281319330023100	Mukera.exe	ebc40ead8c7ee998
+4	689	7281315491818077	CMakeFiles/Mukera.dir/LinkedList.cpp.obj	f21dfa9e71e949de
+1	165	7281319673724763	build.ninja	b7067a78260230c7
+4	674	7281320325537096	CMakeFiles/Mukera.dir/main.cpp.obj	34edfccbd8145744
+674	779	7281320326546243	Mukera.exe	ebc40ead8c7ee998
+5	1103	7287833886862753	CMakeFiles/Mukera.dir/main.cpp.obj	34edfccbd8145744
+1103	1519	7287833890986312	Mukera.exe	ebc40ead8c7ee998
